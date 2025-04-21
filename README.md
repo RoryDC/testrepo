@@ -1,3 +1,3 @@
 # testrepo
 
-initial repo for certification work
+initial repo for certification work (course 2, module 5)
